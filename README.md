@@ -36,7 +36,7 @@
 
 [stackoverflow]: https://stackoverflow.com/users/15032918/charlie-cook?tab=profile
 [instagram]: https://www.instagram.com/_c.j.c22/
-[vscode]: udemy.com/course/beginner-vs-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.EN_cc.UK&utm_term=_._ag_114213220700_._ad_532713168385_._kw__._de_c_._dm__._pl__._ti_dsa-416504847274_._li_1007155_._pd__._&matchtype=&gclid=Cj0KCQiAzMGNBhCyARIsANpUkzO4zsSdrTK6Rn4mmTQUyA7xp-eBvvHd4W2UgYjTj9OnIolblMrKgnMaAv6GEALw_wcB
+[vscode]: uhttps://code.visualstudio.com/
 [css]: https://www.codecademy.com/learn/learn-css
 [html]: https://www.codecademy.com/learn/learn-html
 [git]: https://www.pluralsight.com/courses/git-getting-started?aid=701j0000001heIpAAI&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=UK_Dynamic&utm_content=&cq_cmp=179446998&gclid=Cj0KCQiAzMGNBhCyARIsANpUkzMJpj3x7vLmihlSl20Yg33E2tbi0_Yg0O_SWZmHfj4U3iU7NrT_tLYaAn3xEALw_wcB
