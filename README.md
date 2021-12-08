@@ -2,9 +2,9 @@
 
 ## I'm a Student, Programmer and Geek!
 
-- 🌱 I’m currently finishing learning Python 3! 
-- 👯 I’m looking to share my work and learn to improve where I can!
-- 🥅 2022 Goals: Learn some more programming languages
+- 🌱  I’m currently finishing learning Python 3! 
+- 👯  I’m looking to share my work and learn to improve where I can!
+- 🥅  2022 Goals: Learn some more programming languages
 
 ### Connect with me:
 
