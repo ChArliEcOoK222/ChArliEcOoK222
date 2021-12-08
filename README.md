@@ -36,7 +36,7 @@
 
 [stackoverflow]: https://stackoverflow.com/users/15032918/charlie-cook?tab=profile
 [instagram]: https://www.instagram.com/_c.j.c22/
-[vscode]: uhttps://code.visualstudio.com/
+[vscode]: https://www.linkedin.com/learning/subscription/topics/visual-studio?src=go-pa&veh=sem_src.go-pa_c.LLS-C_EMEA_UKI_T1_EN_SEM_SEM_GoogleAds_NA_All_NA_NA_Core_NA_Dev-Software-development-MKAG_Nonbrand_Phrase_pkw.%2Blearning%20%2Bvisual%20%2Bstudio_pmt.b_pcrid.476826323917_pdv.c_plc._trgid.kwd-312591607895_net.g_learning&trk=sem_src.go-pa_c.LLS-C_EMEA_UKI_T1_EN_SEM_SEM_GoogleAds_NA_All_NA_NA_Core_NA_Dev-Software-development-MKAG_Nonbrand_Phrase_pkw.%2Blearning%20%2Bvisual%20%2Bstudio_pmt.b_pcrid.476826323917_pdv.c_plc._trgid.kwd-312591607895_net.g_learning&mcid=6841864826545823954&cname=&camid=11535800340&asid=109274432781&targetid=kwd-312591607895&crid=476826323917&placement=&dev=c&ends=1&gclid=Cj0KCQiAzMGNBhCyARIsANpUkzNPviClNRQaqAmQUNenP4QizDfnGSs6bIs2F6sSc4wg9jPZ44_ZbTYaAkXJEALw_wcB&gclsrc=aw.ds
 [css]: https://www.codecademy.com/learn/learn-css
 [html]: https://www.codecademy.com/learn/learn-html
 [git]: https://www.pluralsight.com/courses/git-getting-started?aid=701j0000001heIpAAI&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=UK_Dynamic&utm_content=&cq_cmp=179446998&gclid=Cj0KCQiAzMGNBhCyARIsANpUkzMJpj3x7vLmihlSl20Yg33E2tbi0_Yg0O_SWZmHfj4U3iU7NrT_tLYaAn3xEALw_wcB
