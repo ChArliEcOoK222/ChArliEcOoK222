@@ -4,7 +4,7 @@
 
 - 🌱  I’m currently finishing learning OpenAI in Python! 
 - 👯  I’m looking to share my work and learn to improve where I can!
-- 🥅  2024 Goals: Create a YouTube Shorts generator, create a YouTube Script improver, create a YouTube Video Summariser
+- 🥅  2024 Goals: Create a YouTube shorts generator, create a YouTube script improver, create a YouTube video summariser
 
 ### Connect with me:
 
