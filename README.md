@@ -2,9 +2,9 @@
 
 ## I'm a Student, Programmer and Geek!
 
-- 🌱  I’m currently finishing learning Swift! 
+- 🌱  I’m currently finishing learning OpenAI in Python! 
 - 👯  I’m looking to share my work and learn to improve where I can!
-- 🥅  2022 Goals: Learn some more programming languages
+- 🥅  2024 Goals: Create a YouTube Shorts generator, create a YouTube Script improver, create a YouTube Video Summariser
 
 ### Connect with me:
 
